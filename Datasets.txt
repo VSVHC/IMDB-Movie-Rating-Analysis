@@ -1,0 +1,5 @@
+https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai/input?select=movie.csv
+
+https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai/input?select=rating.csv
+
+https://www.kaggle.com/code/harunshimanto/pandas-with-data-science-ai/input?select=tag.csv
